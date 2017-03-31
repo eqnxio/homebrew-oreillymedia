@@ -2,9 +2,9 @@ class Launchbot < Formula
   desc ''
   homepage 'https://dl.equinox.io/oreillymedia/launchbot'
 
-  url 'https://bin.equinox.io/a/35i25vdYcgw/launchbot-0.5.1-darwin-amd64.tar.gz'
-  sha256 '1c32a46849f1dd78c781f7ba5efbe8062a90b50634c9e464f77d8f09ceae7fcb'
-  version '0.5.1'
+  url 'https://bin.equinox.io/a/mvPh31tXSef/launchbot-0.5.2-darwin-amd64.tar.gz'
+  sha256 '76e6abef870e3fc97bb40bc03d856c8b320322803dfe573c616fc88866184bc8'
+  version '0.5.2'
 
   def install
     bin.install 'launchbot'
